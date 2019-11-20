@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+A Flutter app to get weathers from your location and from cities powered by open weather map's API.
 
 ## Getting Started
 
