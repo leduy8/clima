@@ -1,6 +1,6 @@
 # clima
 
-A Flutter app to get weathers from your location and from cities powered by open weather map's API. Credit to Angela Yu's Flutter Course.
+A Flutter app to get weathers from your location and from cities powered by open weather map's API. Credits to Angela Yu's Flutter Course.
 
 ## Getting Started
 
